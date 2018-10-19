@@ -1,7 +1,7 @@
 ###Quizee
 
 ### App Description
-Quizee is a simple flashcard app that displays a question, and upon tapping the screen, displays an answer. Perfect for any study session. (Note: Something happened with the text as I tried making it hardcoded. I will attempt to fix this before Saturday rolls around.)
+Quizee is a simple flashcard app that displays a question, and upon tapping the screen, displays an answer. Perfect for any study session. 
 
 ### App Walk-though
 https://i.imgur.com/aDAznMF.gifv
